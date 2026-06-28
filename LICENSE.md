@@ -1,4 +1,4 @@
-# 
+# Professional 1Password add-ons for Mac OS | Official 1Password add-ons for PC Windows. Featuring password auditing and two-factor authentication — optimized for maximum performance on every platform.
 
 
 
